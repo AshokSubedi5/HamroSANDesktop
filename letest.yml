@@ -1,0 +1,5 @@
+provider: generic
+url: https://github.com/AshokSubedi5/HamroSANDesktop
+useMultipleRangeRequest: false
+channel: latest
+updaterCacheDirName: HamroSAN
